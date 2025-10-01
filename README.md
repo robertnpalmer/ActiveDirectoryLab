@@ -14,7 +14,7 @@ How I built a functional Active Directory lab using VirtualBox. This tutorial de
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11 Pro</b> (21H2)
+- <b>Windows 11 Pro</b>
 
 <h2>Program walk-through:</h2>
 
